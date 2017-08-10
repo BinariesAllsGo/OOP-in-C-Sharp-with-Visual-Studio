@@ -130,5 +130,10 @@ namespace WindowsFormsApplication2
             this.txtResult.Text = string.Empty;
 
         }
+
+        private void btnFechar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

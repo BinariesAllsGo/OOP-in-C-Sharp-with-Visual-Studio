@@ -17,3 +17,12 @@ F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsA
 F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
 F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
 F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.formCalculator.resources
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Calc\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.formLogin.resources
