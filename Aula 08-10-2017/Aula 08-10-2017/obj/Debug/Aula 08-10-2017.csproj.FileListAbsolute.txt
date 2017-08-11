@@ -1,0 +1,8 @@
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\bin\Debug\Aula 08-10-2017.exe
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\bin\Debug\Aula 08-10-2017.pdb
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula 08-10-2017.csprojResolveAssemblyReference.cache
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula_08_10_2017.formLogin.resources
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula_08_10_2017.Properties.Resources.resources
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula 08-10-2017.csproj.GenerateResource.Cache
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula 08-10-2017.exe
+C:\Users\Aliwil\Desktop\Programação\Algoritmos C# (Visual Studio)\Aula 08-10-2017\Aula 08-10-2017\obj\Debug\Aula 08-10-2017.pdb
